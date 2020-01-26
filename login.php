@@ -1,12 +1,4 @@
-<?php
- /*  
-    $user=$_SESSION['user'];
-	$servername="localhost";
-	$username="root";
-	$password="";
-	$dbname="alma";
-	$conn=mysqli_connect($servername, $username, $password,$dbname) or die(" can't connect to server"); */
-?>
+
  <?php
 
  	$user=$_SESSION['user'];
